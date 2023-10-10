@@ -1,4 +1,4 @@
-- 👋 Hi, I’m İpek
+- 👋 Hi, I’m İpek.I'm currently studying computer engineering at Bilecik Seyh Edebali University.
 - 👀 I’m interested in reading books and keeping blog
 - 🌱 I’m currently learning C,C+
 - 📫 How to reach me 3999847@ogrenci.bilecik.edu.tr

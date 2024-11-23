@@ -1,7 +1,7 @@
-- 👋 Hi, I’m İpek.I'm currently studying computer engineering at Bilecik Seyh Edebali University.
+- 👋 Hi, I’m İpek.I'm currently studying computer engineering at Aydin Adnan Menderes University.
 - 👀 I’m interested in reading books and keeping blog
-- 🌱 I’m currently learning C,C+,C# and unity.
-- 📫 How to reach me 3999847@ogrenci.bilecik.edu.tr
+- 🌱 I’m currently learning C,Java.
+- 📫 How to reach me 241805122@stu.adu.edu.tr
 - 📫 How to reach me https://www.linkedin.com/in/ipek-nezihe-can/
 
 <!---
